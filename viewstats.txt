@@ -1,0 +1,6 @@
+# Dont have to be logged in for any of these #
+# First person to find new name endpoint #
+
+Name: https://id.blooket.com/api/users?name=<$NAME>
+ID: https://id.blooket.com/api/users/byid?id=<$ID>
+Email: https://id.blooket.com/api/users/byemail?email=<$EMAIL>
